@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetest-feeling/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sweetest Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-feeling/) |
+| **Get License** | [Get License For Sweetest Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-feeling/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `935230585ca6801a128fea8763b0f5099568e76d05d69513db1b6f43422ece19` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
