@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetest-feeling/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sweetest Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-feeling/) |
+| **Get License** | [Commercial Licensing for Sweetest Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-feeling/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> When the shadows get long and the fire burns low
+> I pull you close, I don't want to let go
+> It's a quiet kind of fire, a tender sort of heat
+> This sweetest feeling makes the midnight complete
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
